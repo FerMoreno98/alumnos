@@ -10,6 +10,7 @@ public class Alumno {
 	private String DNI;
 	private String fecha_nacimiento;
 	private double nota_media;
+	private int edad;
 	
 	
 	public Alumno() {
