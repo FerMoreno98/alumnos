@@ -119,7 +119,7 @@ public class Alumno {
 	}
 	
 	public void Edad() {
-		System.out.println("mi edad es " +edad);
+		System.out.println("Tengo esta edad" +edad);
 
 	}
 
