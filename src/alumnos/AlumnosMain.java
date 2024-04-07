@@ -36,7 +36,12 @@ public class AlumnosMain {
 		l.addalumno1(a14);
 		
 		a1.Edad();
-		a12.Edad();
+
+		
+		l.Saludar();
+		l.Despedirse();
+		
+
 		
 		int opcion;
 		do {

@@ -120,6 +120,7 @@ public class Alumno {
 	
 	public void Edad() {
 		System.out.println("mi edad es " +edad);
+
 	}
 
 	
