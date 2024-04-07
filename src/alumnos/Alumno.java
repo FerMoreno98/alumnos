@@ -13,8 +13,8 @@ public class Alumno {
 	private int edad;
 	
 	
-	public Alumno() {
-		
+	public Alumno(int edad) {
+		this.edad=edad;		
 	}
 	
 	public Alumno(String nombre, String apellido, String dNI, String fecha_nacimiento, double nota_media) {
