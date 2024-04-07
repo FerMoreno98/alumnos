@@ -12,9 +12,11 @@ public class Alumno {
 	private double nota_media;
 	private int edad;
 	
-	
 	public Alumno(int edad) {
-		this.edad=edad;		
+		this.edad=edad;
+	}
+	public Alumno() {
+				
 	}
 	
 	public Alumno(String nombre, String apellido, String dNI, String fecha_nacimiento, double nota_media) {
