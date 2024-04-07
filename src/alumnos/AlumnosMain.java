@@ -38,6 +38,7 @@ public class AlumnosMain {
 		a1.Edad();
 		
 		l.Saludar();
+		l.Despedirse();
 		
 		
 		int opcion;
