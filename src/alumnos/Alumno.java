@@ -11,6 +11,7 @@ public class Alumno {
 	private String fecha_nacimiento;
 	private double nota_media;
 	private int edad;
+	private String Segundo_apellido;
 	
 	public Alumno(int edad) {
 		this.edad=edad;
