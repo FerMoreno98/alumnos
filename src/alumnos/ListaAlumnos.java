@@ -110,6 +110,10 @@ public class ListaAlumnos {
 	public void Saludar() {
 		System.out.println("Hola muy buenas");
 	}
+	
+	public void Despedirse() {
+		System.out.println("Adios");
+	}
 	@Override
 	public String toString() {
 		return "ListaAlumnos [listadoalumnos=" + listadoalumnos + "]";
