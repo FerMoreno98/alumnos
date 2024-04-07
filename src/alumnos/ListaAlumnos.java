@@ -117,7 +117,7 @@ public class ListaAlumnos {
 	}
 	
 	public void Despedirse() {
-		System.out.println("Adios");
+		System.out.println("Adios, muy buenas");
 	}
 	@Override
 	public String toString() {
