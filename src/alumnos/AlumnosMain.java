@@ -35,6 +35,8 @@ public class AlumnosMain {
 		l.addalumno1(a13);
 		l.addalumno1(a14);
 		
+		a1.Edad();
+		
 		
 		int opcion;
 		do {
