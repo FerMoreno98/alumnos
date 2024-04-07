@@ -36,7 +36,7 @@ public class AlumnosMain {
 		l.addalumno1(a14);
 		
 		a1.Edad();
-
+		a2.getApellido();
 		
 		l.Saludar();
 		l.Despedirse();
