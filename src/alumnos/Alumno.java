@@ -114,6 +114,11 @@ public class Alumno {
 		DNI=sc.next();
 		fecha_nacimiento=sc.next();
 		nota_media=sc.nextDouble();
+	
+	}
+	
+	public void Edad() {
+		System.out.println(edad);
 	}
 
 	
