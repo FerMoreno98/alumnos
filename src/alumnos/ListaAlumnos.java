@@ -11,7 +11,10 @@ public class ListaAlumnos {
 	
 	
 	
-	
+	public ListaAlumnos(HashSet<Alumno> listaalumnos2) {
+		super();
+		this.listaalumnos2=new HashSet<>();
+	}
     
 	public ListaAlumnos() {
 		super();
