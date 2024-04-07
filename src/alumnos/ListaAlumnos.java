@@ -8,7 +8,7 @@ public class ListaAlumnos {
 	static Scanner sc=new Scanner(System.in);
 	private ArrayList<Alumno> listadoalumnos;
 	private HashSet<Alumno> listaalumnos2;
-	
+	private int num_lista;
 	
 	
 	public ListaAlumnos(HashSet<Alumno> listaalumnos2) {
