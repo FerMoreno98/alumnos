@@ -1,11 +1,13 @@
 package alumnos;
 
 import java.util.ArrayList;
+import java.util.HashSet;
 import java.util.Scanner;
 
 public class ListaAlumnos {
 	static Scanner sc=new Scanner(System.in);
 	private ArrayList<Alumno> listadoalumnos;
+	private HashSet<Alumno> listaalumnos2;
 	
 	
 	
