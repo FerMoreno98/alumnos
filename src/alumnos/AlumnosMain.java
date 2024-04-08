@@ -36,12 +36,10 @@ public class AlumnosMain {
 		l.addalumno1(a14);
 		
 		a1.Edad();
-<<<<<<< HEAD
+
 		a2.getApellido();
 		
-=======
-		a3.getApellido();
->>>>>>> refs/heads/Rama1
+
 		l.Saludar();
 		l.Despedirse();
 		
